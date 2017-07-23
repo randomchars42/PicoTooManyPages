@@ -1,7 +1,7 @@
 # CurrentLevel
 
 **CurrentLevel** is a plugin for Pico CMS <picocms.org> that only parses the directory in which
-the currently requested file resides building the auto-generated menu.
+the currently requested file resides while building the auto-generated menu.
 
 In addition, **CurrentLevel** adds a (very) basic twig function to generate breadcrumbs.
 
